@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<mojiPodaci>
+  <punoIme>
+    <ime>Milos</ime>
+    <prezime>Miric</prezime>
+  </punoIme>
+  <datumRodjenja>
+    <dan>7</dan>
+    <mesec>Jul</mesec>
+    <godina>1998</godina>
+  </datumRodjenja>
+  <adresa>
+    <ulica>Vojvode Stepe 283</ulica>
+    <naselje>Vozdovac</naselje>
+    <grad>Beograd</grad>
+    <drzava>Srbija</drzava>
+    <ptt>11000</ptt>
+  </adresa>
+</mojiPodaci>

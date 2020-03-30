@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<koren xmlns:mail="http://viser.edu.rs/mail">
+  
+  <mail:inbox>
+    <mail:posiljalac>milosrt6917@gs.viser.edu.rs</mail:posiljalac>
+    <mail:primalac>viser@edu.rs</mail:primalac>
+    <mail:cc>
+      <mail:adresa>test1@test.com</mail:adresa>
+      <mail:adresa>test2@test.com</mail:adresa>
+    </mail:cc>
+    <mail:bcc>
+      <mail:adresa>test3@test.com</mail:adresa>
+      <mail:adresa>test4@test.com</mail:adresa>
+    </mail:bcc>
+
+    <mail:naslov>IST vezba</mail:naslov>
+    <mail:tekst>Korona virus nije stvaran</mail:tekst>
+    <mail:datum>30/3/2020</mail:datum>
+  </mail:inbox>
+  
+</koren>
+
+<!--Bez prefiksa bi ovako izgledalo-->
+<!--<inbox xmlns="http://viser.edu.rs/mail">
+  
+  <posiljalac>milosrt6917@gs.viser.edu.rs</posiljalac>
+  <primalac>viser@edu.rs</primalac>
+  <cc>
+    <adresa>test1@test.com</adresa>
+    <adresa>test2@test.com</adresa>
+  </cc>
+  <bcc>
+    <adresa>test3@test.com</adresa>
+    <adresa>test4@test.com</adresa>
+  </bcc>
+
+  <naslov>IST vezba</naslov>
+  <tekst>Korona virus nije stvaran</tekst>
+  <datum>30/3/2020</datum>
+  
+</inbox>-->

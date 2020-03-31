@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE autoOglas SYSTEM "autooglas.dtd">
 <!-- Koren -->
 <!-- Proverena validnost na https://www.xmlvalidation.com -->
@@ -8,10 +8,10 @@
     <model tip="limuzina">R8</model>
     <godiste>2010</godiste>
     <farba tip="metalik">Crna</farba>
-    <zapremina mera="cm^3">3000</zapremina>
-    <transimisija tip="manual">6</transimisija>
+    <zapremina mera="ccm">3000</zapremina>
+    <transmisija tip="manual">6</transmisija>
     <gorivo tng="da">Dizel</gorivo>
-    <cena valuta="EUR">200000</cena>
+    <cena valuta="eur">200000</cena>
     <kontakt>+381656251425</kontakt>
   </automobil>
 </autoOglas>

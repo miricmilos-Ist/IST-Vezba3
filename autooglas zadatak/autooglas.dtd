@@ -7,3 +7,12 @@
 <!ELEMENT godiste (#PCDATA)>
 <!ELEMENT farba (#PCDATA)>
 <!ATTLIST farba tip (akril|metalik) #REQUIRED>
+<!ELEMENT zapremina (#PCDATA)>
+<!ATTLIST zapremina mera (ccm|I) #REQUIRED>
+<!ELEMENT transmisija (#PCDATA)>
+<!ATTLIST transmisija tip (auto|manual) #REQUIRED>
+<!ELEMENT gorivo (#PCDATA)>
+<!ATTLIST gorivo tng (da|ne) #IMPLIED>
+<!ELEMENT cena (#PCDATA)>
+<!ATTLIST cena valuta (din|eur) #REQUIRED>
+<!ELEMENT kontakt (#PCDATA)>

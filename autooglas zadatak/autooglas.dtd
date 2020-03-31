@@ -1,0 +1,9 @@
+<!--Korenski element-->
+<!ELEMENT autoOglas (automobil+)>
+<!ELEMENT automobil (proizvodjac, model, godiste, farba, zapremina, transmisija, gorivo, cena, kontakt)>
+<!ELEMENT proizvodjac (#PCDATA)>
+<!ELEMENT model (#PCDATA)>
+<!ATTLIST model tip CDATA #IMPLIED>
+<!ELEMENT godiste (#PCDATA)>
+<!ELEMENT farba (#PCDATA)>
+<!ATTLIST farba tip (akril|metalik) #REQUIRED>

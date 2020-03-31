@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE autoOglas SYSTEM "autooglas.dtd">
+<!-- Koren -->
+<!-- Proverena validnost na https://www.xmlvalidation.com -->
+<autoOglas>
+  <automobil>
+    <proizvodjac>Audi</proizvodjac>
+    <model tip="limuzina">R8</model>
+    <godiste>2010</godiste>
+    <farba tip="metalik">Crna</farba>
+    <zapremina mera="ccm">3000</zapremina>
+    <transmisija tip="manual">6</transmisija>
+    <gorivo tng="da">Dizel</gorivo>
+    <cena valuta="eur">200000</cena>
+    <kontakt>+381656251425</kontakt>
+  </automobil>
+</autoOglas>

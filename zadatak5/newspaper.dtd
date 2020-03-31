@@ -1,0 +1,20 @@
+<!ELEMENT newspaper (article+)>
+<!ELEMENT article (headline, byline, lead, body, notes)>
+
+<!--article atributi-->
+<!ATTLIST article author CDATA #REQUIRED>
+<!ATTLIST article editor CDATA #IMPLIED>
+<!ATTLIST article date CDATA #IMPLIED>
+<!ATTLIST article edition CDATA #IMPLIED>
+<!--kraj atributa-->
+
+<!ELEMENT headline (#PCDATA)>
+<!ELEMENT byline (#PCDATA)>
+<!ELEMENT lead (#PCDATA)>
+<!ELEMENT body (#PCDATA)>
+<!ELEMENT notes (#PCDATA)>
+
+<!--promenljive-->
+<!ENTITY newspaper "nytimes">
+<!ENTITY publisher "ENPA">
+<!ENTITY copyright "Copyright NY Times">

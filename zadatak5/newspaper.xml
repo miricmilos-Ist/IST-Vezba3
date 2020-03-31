@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE newspaper SYSTEM "newspaper.dtd">
+<newspaper>
+  <!--Validacija prosla bez gresaka-->
+  <article author="Aleksandar Tirnanic" editor="Blagoje Marijanovic">
+    <headline>Srbija osvojila drugo mesto na prvom svetskom prvenstvu u fudbalu</headline>
+    <byline>Aleksandar</byline>
+    <lead>Otvarajuci paragraf</lead>
+    <body>Dugacak tekst</body>
+    <notes>&newspaper;&newspaper;&copyright;</notes>    
+  </article>
+  <article author="Dragan Bjelogrlic" date="31/3/2020">
+    <headline>Senke Nad Balkanom obara rekorde gledanosti</headline>
+    <byline>Dragan</byline>
+    <lead>Otvarajuci paragraf</lead>
+    <body>Dugacak tekst</body>
+    <notes>&newspaper;&newspaper;&copyright;</notes>
+  </article>
+  <article author="Milos Avramovic" edition="prvo">
+    <headline>Vuk Kostic se pridruzuje glumackoj ekipi u seriji Juzni Vetar</headline>
+    <byline>Avramovic</byline>
+    <lead>Otvarajuci paragraf</lead>
+    <body>Dugacak tekst</body>
+    <notes>&newspaper;&newspaper;&copyright;</notes>
+  </article>
+</newspaper>

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE fakultet SYSTEM "fakultet.dtd">
+<!--Validacija uspela-->
 <fakultet>
   <student status="studira" indeks="RT6917">
     <osoba>
